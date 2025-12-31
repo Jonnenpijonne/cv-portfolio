@@ -58,4 +58,4 @@ Expert in implementing **Agentic AI workflows** and **Digital Lifecycle Manageme
 
 ## Portfolio & Links
 * 🚀 [GitHub: Home-Assistant-as-a-Service (HAaaS)](https://github.com/Jonnenpijonne/Home-Assistant-as-a-Service-HAaaS-)
-* 💼 [LinkedIn Profile](https://www.linkedin.com/in/jonne-silvennoinen/)
+* 💼 [LinkedIn Profile](https://www.linkedin.com/in/jonne-silvennoinen-0421aa266/)
