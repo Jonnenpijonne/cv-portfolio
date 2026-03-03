@@ -57,6 +57,5 @@ Expert in implementing **Agentic AI workflows** and **Digital Lifecycle Manageme
 ---
 
 ## Portfolio & Links
-* 🚀 [GitHub: gatehouse-policy-engine) (Gatehouse)]
-[(https://github.com/JonSil89/gatehouse-policy-engine)]
+* 🚀 [GitHub: gatehouse-policy-engine) (Gatehouse)][(https://github.com/JonSil89/gatehouse-policy-engine)]
 * 💼 [LinkedIn Profile](https://www.linkedin.com/in/jonne-silvennoinen-0421aa266/)
